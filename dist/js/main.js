@@ -5,7 +5,6 @@ const menuBranding = document.querySelector('.menuBranding');
 
 const navItems = document.querySelectorAll('.navItem');
 
-
 let showMenu = false;
 
 menuBtn.addEventListener('click', toddleMenu);
