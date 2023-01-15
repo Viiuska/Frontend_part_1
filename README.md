@@ -2,6 +2,8 @@
 
 Anytime-course: Software Development Skills: Front-End 2022-23
 
+Viia Mäntymäki
+
 In this course there are 1-7 parts that need to done  
 
 Introduction to workflow and sass [Part 1].
