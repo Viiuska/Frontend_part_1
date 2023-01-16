@@ -46,6 +46,6 @@ Website Deployment [Part 7].
 
 1. In this part you will learn to deploy your website with GitHub Pages
 
-To run this in Visual Studio Code go to th terminal and write 'npm run sass' and to see it go example index.html and left click and click the 'Open with Live Server'.
+To run this in Visual Studio Code go to th terminal and write 'npm run sass' and to see it go example index.html and right click and click the 'Open with Live Server'.
 
 You can view the end result from https://viiuska.github.io/Frontend_part_1 and the learning diary https://lut-my.sharepoint.com/:w:/g/personal/viia_mantymaki_student_lut_fi/EaPyHrl8eXBIpcXdfem8-N8BOT-Lv7K4M8tmi9_B_CHtMQ?e=GQPzeI
